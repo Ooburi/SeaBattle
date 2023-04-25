@@ -1,6 +1,6 @@
 # SeaBattle
 
-**SeaBattle** is telegram bot where you can find random user and play sea battle with him.
+**SeaBattle** is telegram bot where you can find random user to play sea battle with.
 
 ## 🔨 Getting Started
  1) Open BotSettings.cs
